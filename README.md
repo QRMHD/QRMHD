@@ -61,6 +61,9 @@ I'm a developer who loves building solid, scalable server-side systems. I work p
   <a href="https://github.com/QRMHD">
     <img src="https://img.shields.io/badge/GitHub-QRMHD-181717?style=for-the-badge&logo=github" />
   </a>
+  <a href="https://www.linkedin.com/in/mohamed-ali-6262163b6/">
+  <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Ali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 </p>
 
 ---
