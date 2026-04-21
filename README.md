@@ -64,6 +64,9 @@ I'm a developer who loves building solid, scalable server-side systems. I work p
   <a href="https://www.linkedin.com/in/mohamed-ali-6262163b6/">
   <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Ali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+  <a href="https://www.instagram.com/m7mmd5051/">
+  <img src="https://img.shields.io/badge/Instagram-Follow-blue?style=for-the-badge&logo=instagram" alt="Instagram"/>
+</a>
 </p>
 
 ---
