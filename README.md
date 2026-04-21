@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm Mohamed Ali 👋</h1>
 
 <p align="center">
-  <em>Backend Developer · PERN Stack · SQL Enthusiast</em>
+  <em>· PERN Stack · Software Engineer</em>
 </p>
 
 <p align="center">
@@ -15,11 +15,11 @@
 
 ## 🧑‍💻 About Me
 
-I'm a backend-focused developer who loves building solid, scalable server-side systems. I work primarily with the **PERN stack** and have a strong foundation in **SQL** for designing and querying databases efficiently.
+I'm a developer who loves building solid, scalable server-side systems. I work primarily with the **PERN stack** and have a strong foundation in **SQL** for designing and querying databases efficiently.
 
 - 🔭 Currently building with **PostgreSQL, Express.js, React & Node.js**
-- 🗄️ Passionate about **database design and optimization**
-- 🌱 Also familiar with **PHP** and **C++**
+- 🗄️ Passionate about **DevOps Technologes and Tools **
+- 🌱 Also familiar with **C++**
 - 💡 Always looking to write cleaner, faster, and more reliable code
 
 ---
