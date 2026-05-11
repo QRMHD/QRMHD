@@ -44,14 +44,6 @@ I'm a developer who loves building solid, scalable server-side systems. I work p
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=QRMHD&show_icons=true&theme=tokyonight&hide_border=true" alt="Mohamed's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QRMHD&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
 
 ---
 
